@@ -1,0 +1,63 @@
+body {
+    background: #ff00dd;
+}
+
+.container {
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    margin: auto;
+    margin-top: 150px;
+    left: 100px;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+h2{
+    color: #ff00dd;
+}
+
+h3 {
+    line-height: 2px;
+    color: #ff00dd;
+}
+
+label {
+    color: #ff00dd;
+}
+
+small {
+    color: #ff00dd;
+}
+
+form {
+    margin-top: 40px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ff00dd;
+    border-radius: 30px;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 30px;
+    background: #ff00dd;
+    color: aqua;
+}
+
+.register {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.register a {
+    text-decoration: none;
+    color: #ff00dd;
+}
